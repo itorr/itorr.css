@@ -49,7 +49,7 @@ textarea:focus,input:focus,option:focus,style:focus,pre:focus{outline:none;}
 .itorr input[type="submit"]:hover{background:#FFEA1C;-webkit-box-shadow:#EEC 0 0 10px;-moz-box-shadow:#EEC 0 0 10px;box-shadow:#EEC 0 0 10px;}
 .itorr input[type="submit"]:active{background:#EAD615;}
 .itorr input[type="radio"]:checked{background:white;}
-.itorr input[type="checkbox"]:checked::after{position:absolute;top:-6px;left:-5px;content:url(checkmark.png);display:block;}
+.itorr input[type="checkbox"]:checked::after{position:absolute;top:-3px;color: #666;content:"✔";display:block;text-shadow:rgba(0,0,0,.05) 0 1px 0;}
 .itorr input[type=checkbox]:active,.itorr input[type=radio]:active{border-color:#c6c6c6;background:#ebebeb;}
 .itorr input[type=checkbox]:hover{border-color:#c6c6c6;-webkit-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.1);-moz-box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.1);box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.1);}
 .itorr input[type=checkbox]:checked,.itorr input[type=radio]:checked{background:#fff;}
