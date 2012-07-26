@@ -4,7 +4,9 @@
 
 ## 安装
 
-    <link rel="stylesheet" type="text/css" href="/path-to-your-styles/itorr.css" />
+```html
+<link rel="stylesheet" type="text/css" href="/path-to-your-styles/itorr.css" />
+```
 
 ## 使用
 
