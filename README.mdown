@@ -1,0 +1,28 @@
+# Itorr Style
+
+卜卜口所设计、开发的小清新样式库，现已用于多个线上项目。
+
+## 安装
+
+    <link rel="stylesheet" type="text/css" href="/path-to-your-styles/itorr.css" />
+
+## 使用
+
+我们可以对`body`添加`class`
+
+```html
+<body class="itorr">
+  ...
+</body>
+```
+
+也可以对你所用的包裹节点添加`class`
+
+```html
+<div class="itorr">
+  ...
+</div>
+```
+---
+
+TODO
